@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    background: url(background-1.jpg) no-repeat fixed center/cover;
+    color: white;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+h3{
+    font-family: 'Dynalight', cursive;
+    font-size: 40px;
+}
+
+hr{
+    margin: 20px auto;
+    max-width: 90px;
+    border: 2px solid #D46A6A;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.btn-lg{
+    background-color: #D46A6A;
+    border-color: #D46A6A;
+    font-family: 'Dynalight', cursive;
+    font-family: 'Puritan', sans-serif;
+    border-radius: 20px;
+    padding: 10px 40px;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+.btn-lg:hover{
+    background-color: #AA3C39;
+    border-color: #D46A6A;
+}
